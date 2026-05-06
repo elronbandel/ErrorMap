@@ -1,0 +1,41 @@
+model,category,count,pct
+openai_Azure_DeepSeek-V3.2,Premature Termination,78,10.955056179775282
+openai_Azure_DeepSeek-V3.2,Search Recovery & Adaptation,71,9.97191011235955
+openai_Azure_DeepSeek-V3.2,Evidence Retrieval Omission,55,7.724719101123595
+openai_Azure_DeepSeek-V3.2,Constraint Interpretation Error,54,7.584269662921348
+openai_Azure_DeepSeek-V3.2,Tool Invocation Error,43,6.03932584269663
+openai_Azure_DeepSeek-V3.2,Validation Recovery Failure,39,5.477528089887641
+openai_Azure_DeepSeek-V3.2,Entity Resolution Error,33,4.634831460674158
+openai_Azure_DeepSeek-V3.2,Evidence Interpretation Error,33,4.634831460674158
+openai_Azure_Kimi-K2.5,Tool Invocation Error,61,9.312977099236642
+openai_Azure_Kimi-K2.5,Unsupported Fabrication,60,9.16030534351145
+openai_Azure_Kimi-K2.5,Evidence Retrieval Omission,46,7.022900763358779
+openai_Azure_Kimi-K2.5,Search Recovery & Adaptation,43,6.564885496183206
+openai_Azure_Kimi-K2.5,Action Execution Error,42,6.412213740458015
+openai_Azure_Kimi-K2.5,Premature Termination,39,5.9541984732824424
+openai_Azure_Kimi-K2.5,Constraint Interpretation Error,31,4.732824427480916
+openai_Azure_Kimi-K2.5,Entity Resolution Error,31,4.732824427480916
+openai_Azure_gpt-5.2-2025-12-11,Premature Termination,73,11.370716510903426
+openai_Azure_gpt-5.2-2025-12-11,Escalation Handling,64,9.968847352024921
+openai_Azure_gpt-5.2-2025-12-11,Diagnostic Protocol Error,39,6.074766355140187
+openai_Azure_gpt-5.2-2025-12-11,Evidence Retrieval Omission,38,5.919003115264798
+openai_Azure_gpt-5.2-2025-12-11,Evidence Interpretation Error,36,5.607476635514018
+openai_Azure_gpt-5.2-2025-12-11,Constraint Interpretation Error,34,5.29595015576324
+openai_Azure_gpt-5.2-2025-12-11,Search Recovery & Adaptation,30,4.672897196261682
+openai_Azure_gpt-5.2-2025-12-11,Entity Resolution Error,28,4.361370716510903
+openai_aws_claude-opus-4-5,Candidate Verification Failure,28,7.329842931937173
+openai_aws_claude-opus-4-5,Evidence Retrieval Omission,27,7.0680628272251305
+openai_aws_claude-opus-4-5,Unsupported Fabrication,26,6.806282722513089
+openai_aws_claude-opus-4-5,Escalation Handling,24,6.282722513089006
+openai_aws_claude-opus-4-5,Diagnostic Protocol Error,24,6.282722513089006
+openai_aws_claude-opus-4-5,Entity Resolution Error,24,6.282722513089006
+openai_aws_claude-opus-4-5,Remediation Omission,22,5.7591623036649215
+openai_aws_claude-opus-4-5,Tool Invocation Error,19,4.973821989528796
+openai_gcp_gemini-3-pro-preview,Evidence Retrieval Omission,45,9.433962264150944
+openai_gcp_gemini-3-pro-preview,Unsupported Fabrication,39,8.176100628930818
+openai_gcp_gemini-3-pro-preview,Search Recovery & Adaptation,28,5.870020964360587
+openai_gcp_gemini-3-pro-preview,Entity Resolution Error,27,5.660377358490566
+openai_gcp_gemini-3-pro-preview,Premature Termination,26,5.450733752620545
+openai_gcp_gemini-3-pro-preview,Candidate Verification Failure,24,5.031446540880503
+openai_gcp_gemini-3-pro-preview,Tool Invocation Error,22,4.612159329140461
+openai_gcp_gemini-3-pro-preview,Action Execution Error,22,4.612159329140461

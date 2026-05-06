@@ -1,0 +1,41 @@
+agent,category,count,pct
+claude_code,Premature Termination,57,12.666666666666666
+claude_code,Entity Resolution Error,32,7.111111111111111
+claude_code,Constraint Interpretation Error,30,6.666666666666667
+claude_code,Evidence Retrieval Omission,28,6.222222222222222
+claude_code,Unsupported Fabrication,28,6.222222222222222
+claude_code,Search Recovery & Adaptation,25,5.555555555555555
+claude_code,Candidate Verification Failure,22,4.888888888888889
+claude_code,Tool Invocation Error,21,4.666666666666667
+openai_solo,Premature Termination,82,15.95330739299611
+openai_solo,Tool Invocation Error,34,6.614785992217898
+openai_solo,Evidence Retrieval Omission,28,5.447470817120623
+openai_solo,Search Recovery & Adaptation,25,4.863813229571984
+openai_solo,Constraint Interpretation Error,25,4.863813229571984
+openai_solo,Validation Recovery Failure,24,4.669260700389105
+openai_solo,Finalization Protocol Error,22,4.280155642023346
+openai_solo,Candidate Verification Failure,21,4.085603112840467
+smolagents_code,Search Recovery & Adaptation,53,9.869646182495345
+smolagents_code,Escalation Handling,34,6.33147113594041
+smolagents_code,Evidence Retrieval Omission,33,6.145251396648045
+smolagents_code,Premature Termination,33,6.145251396648045
+smolagents_code,Evidence Interpretation Error,31,5.772811918063315
+smolagents_code,Unsupported Fabrication,30,5.58659217877095
+smolagents_code,Tool Invocation Error,30,5.58659217877095
+smolagents_code,Constraint Interpretation Error,26,4.8417132216014895
+tool_calling,Evidence Retrieval Omission,62,9.198813056379821
+tool_calling,Unsupported Fabrication,44,6.528189910979228
+tool_calling,Tool Invocation Error,44,6.528189910979228
+tool_calling,Search Recovery & Adaptation,40,5.9347181008902075
+tool_calling,Escalation Handling,39,5.786350148367952
+tool_calling,Constraint Interpretation Error,38,5.637982195845697
+tool_calling,Entity Resolution Error,35,5.192878338278931
+tool_calling,Diagnostic Protocol Error,31,4.599406528189911
+tool_calling_with_shortlisting,Evidence Retrieval Omission,60,8.658008658008658
+tool_calling_with_shortlisting,Unsupported Fabrication,47,6.782106782106782
+tool_calling_with_shortlisting,Search Recovery & Adaptation,40,5.772005772005772
+tool_calling_with_shortlisting,Escalation Handling,39,5.627705627705628
+tool_calling_with_shortlisting,Tool Invocation Error,38,5.483405483405483
+tool_calling_with_shortlisting,Constraint Interpretation Error,38,5.483405483405483
+tool_calling_with_shortlisting,Premature Termination,35,5.05050505050505
+tool_calling_with_shortlisting,Diagnostic Protocol Error,31,4.473304473304474

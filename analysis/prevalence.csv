@@ -1,0 +1,52 @@
+category,count,pct
+Premature Termination,232,8.089260808926081
+Evidence Retrieval Omission,211,7.357043235704324
+Search Recovery & Adaptation,183,6.380753138075314
+Unsupported Fabrication,167,5.822873082287308
+Tool Invocation Error,167,5.822873082287308
+Constraint Interpretation Error,157,5.474198047419804
+Escalation Handling,151,5.264993026499303
+Entity Resolution Error,143,4.9860529986053
+Evidence Interpretation Error,119,4.149232914923291
+Diagnostic Protocol Error,118,4.114365411436541
+Action Execution Error,118,4.114365411436541
+Candidate Verification Failure,115,4.00976290097629
+Validation Recovery Failure,104,3.6262203626220364
+Quantitative Reasoning Error,97,3.382147838214784
+Remediation Omission,81,2.8242677824267783
+Coverage Enumeration Omission,75,2.6150627615062763
+Finalization Protocol Error,73,2.5453277545327753
+Unauthorized Action Execution,69,2.405857740585774
+Policy Eligibility Error,67,2.336122733612273
+Other,61,2.126917712691771
+Query Formulation Error,60,2.092050209205021
+Confirmation Handling Error,43,1.499302649930265
+Authentication Handling Error,36,1.2552301255230125
+Planning Error,26,0.9065550906555091
+User Communication Error,21,0.7322175732217573
+Instruction Following Error,19,0.6624825662482566
+State/Goal Tracking Error,17,0.592747559274756
+Retrieval Coverage,12,0.41841004184100417
+Search Query Planning,11,0.38354253835425384
+Looping Behavior,11,0.38354253835425384
+Failure Recovery,10,0.3486750348675035
+Policy Eligibility Reasoning,10,0.3486750348675035
+Premature Workflow Termination,8,0.2789400278940028
+Submission Finalization,8,0.2789400278940028
+Unsupported Inference,8,0.2789400278940028
+Diagnostic Checklist Execution,6,0.20920502092050208
+Required Action Execution,6,0.20920502092050208
+Escalation Handoff Timing,6,0.20920502092050208
+Validation Error Repair,5,0.17433751743375175
+Tool Invocation,5,0.17433751743375175
+Candidate Selection,4,0.1394700139470014
+Diagnostic Protocol Sequencing,4,0.1394700139470014
+Evidence Interpretation,4,0.1394700139470014
+Temporal Constraint Handling,3,0.10460251046025104
+Unauthorized State Mutation,3,0.10460251046025104
+Verification Handling,3,0.10460251046025104
+Request Boundary Compliance,3,0.10460251046025104
+Transaction Reconciliation,3,0.10460251046025104
+Batch Processing Coverage,2,0.0697350069735007
+Numeric Evaluation,2,0.0697350069735007
+Hard to Analyze,1,0.03486750348675035

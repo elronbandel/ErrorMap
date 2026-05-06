@@ -1,0 +1,28 @@
+our_category,n,pct,errormap_atlas_17,agent_error_taxonomy_17,novelty
+Premature Termination,232,8.1,(none — closest: Missing Required Element),(none — closest: Step Limit Exhaustion but volitional not budget),NOVEL
+Evidence Retrieval Omission,211,7.4,(partial: Tool/API Usage Error),Memory/Retrieval Failure,partial overlap
+Search Recovery & Adaptation,183,6.4,(none),Planning/Inefficient Planning (loose),NOVEL
+Unsupported Fabrication,167,5.8,Factual Error,Memory/Hallucination,covered
+Tool Invocation Error,167,5.8,Tool/API Usage Error,Action/Format Error + Action/Parameter Error,covered
+Constraint Interpretation Error,157,5.5,Specification Misinterpretation,Planning/Constraint Ignorance,covered
+Escalation Handling,151,5.3,(none),(none),NOVEL
+Entity Resolution Error,143,5.0,Incorrect Identification,(none),partial overlap
+Evidence Interpretation Error,119,4.1,(partial: Specification Misinterpretation),Reflection/Outcome Misinterpretation,covered
+Diagnostic Protocol Error,118,4.1,(none),(none),NOVEL
+Action Execution Error,118,4.1,(partial: Tool/API Usage Error),Action/Planning-Action Disconnect,partial overlap
+Candidate Verification Failure,115,4.0,(none),Reflection/Causal Misattribution (loose),partial overlap
+Validation Recovery Failure,104,3.6,(none),(none),NOVEL
+Quantitative Reasoning Error,97,3.4,Computation Error,(none),covered
+Remediation Omission,81,2.8,(none),(none),NOVEL
+Coverage Enumeration Omission,75,2.6,Counting/Enumeration Error,(none),partial overlap
+Finalization Protocol Error,73,2.5,(none),(none),NOVEL
+Unauthorized Action Execution,69,2.4,(none),(none),NOVEL
+Policy Eligibility Error,67,2.3,(none),Planning/Constraint Ignorance (loose),partial overlap
+Query Formulation Error,60,2.1,(none),(none),NOVEL
+Confirmation Handling Error,43,1.5,(none),(none),NOVEL
+Authentication Handling Error,36,1.3,(none),(none),NOVEL
+Planning Error,26,0.9,(none),Planning (entire module),covered
+User Communication Error,21,0.7,(none),(none),NOVEL
+Instruction Following Error,19,0.7,(none),(none),NOVEL
+State/Goal Tracking Error,17,0.6,(none),Memory module (loose),partial overlap
+Looping Behavior,11,0.4,(none),(none),NOVEL

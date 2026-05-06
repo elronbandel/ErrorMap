@@ -1,0 +1,52 @@
+category,openai_Azure_DeepSeek-V3.2,openai_Azure_Kimi-K2.5,openai_Azure_gpt-5.2-2025-12-11,openai_aws_claude-opus-4-5,openai_gcp_gemini-3-pro-preview
+Action Execution Error,23,42,20,11,22
+Authentication Handling Error,4,8,19,3,2
+Batch Processing Coverage,2,0,0,0,0
+Candidate Selection,2,0,1,1,0
+Candidate Verification Failure,17,29,17,28,24
+Confirmation Handling Error,4,2,18,3,16
+Constraint Interpretation Error,54,31,34,18,20
+Coverage Enumeration Omission,14,28,9,6,18
+Diagnostic Checklist Execution,1,2,3,0,0
+Diagnostic Protocol Error,23,19,39,24,13
+Diagnostic Protocol Sequencing,1,3,0,0,0
+Entity Resolution Error,33,31,28,24,27
+Escalation Handling,17,24,64,24,22
+Escalation Handoff Timing,1,0,4,0,1
+Evidence Interpretation,1,2,0,0,1
+Evidence Interpretation Error,33,24,36,14,12
+Evidence Retrieval Omission,55,46,38,27,45
+Failure Recovery,1,6,1,0,2
+Finalization Protocol Error,13,26,6,13,15
+Hard to Analyze,0,1,0,0,0
+Instruction Following Error,1,4,6,2,6
+Looping Behavior,0,2,4,1,4
+Numeric Evaluation,0,1,1,0,0
+Other,16,10,12,9,14
+Planning Error,5,3,10,6,2
+Policy Eligibility Error,12,7,22,13,13
+Policy Eligibility Reasoning,6,0,2,2,0
+Premature Termination,78,39,73,16,26
+Premature Workflow Termination,0,1,3,1,3
+Quantitative Reasoning Error,28,16,28,16,9
+Query Formulation Error,12,16,13,10,9
+Remediation Omission,19,10,16,22,14
+Request Boundary Compliance,1,0,0,0,2
+Required Action Execution,0,0,0,5,1
+Retrieval Coverage,0,5,3,4,0
+Search Query Planning,2,0,5,4,0
+Search Recovery & Adaptation,71,43,30,11,28
+State/Goal Tracking Error,2,4,7,3,1
+Submission Finalization,1,4,0,0,3
+Temporal Constraint Handling,1,0,0,0,2
+Tool Invocation,2,2,0,0,1
+Tool Invocation Error,43,61,22,19,22
+Transaction Reconciliation,0,1,0,0,2
+Unauthorized Action Execution,32,11,10,3,13
+Unauthorized State Mutation,0,1,0,0,2
+Unsupported Fabrication,31,60,11,26,39
+Unsupported Inference,6,0,0,0,2
+User Communication Error,4,3,3,1,10
+Validation Error Repair,1,2,2,0,0
+Validation Recovery Failure,39,25,21,12,7
+Verification Handling,0,0,1,0,2

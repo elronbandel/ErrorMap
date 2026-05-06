@@ -9,7 +9,7 @@ You are an expert analyst. Your job is to evaluate evidence step by step, consid
     - **id**: category index.
     - **name**: category name.
     - **description**: category description used to classify data points.
-- **Use case**: Review the taxonomy that categorizes model errors based on the specific skills the model failed to demonstrate in each example.
+- **Use case**: Review the taxonomy that categorizes agent failure modes based on the specific skills, behaviors, or control-flow patterns the agent failed to demonstrate in each trajectory.
 {% if parent_category %}
 All of these errors have already been labeled under the category: *{{ parent_category }}*.
 Please ensure that you assign each error to more specific and informative sub-categories that go beyond the general label "{{ parent_category }}".
@@ -30,8 +30,8 @@ Focus on identifying the underlying skills or error types that provide deeper in
   "clusters": [
     {
       "id": 1,
-      "name": "Factual Error",
-      "description": "Model fails to retrieve or generate accurate information."
+      "name": "Tool Use Error",
+      "description": "Agent issues malformed, wrong, or missing tool calls."
     }
   ]
 }
@@ -44,7 +44,7 @@ Focus on identifying the underlying skills or error types that provide deeper in
 - **No overlap or contradiction** among the categories.
 - **Name** is a concise and clear label for the category, identifies **one specific skill or ability only**. Use only phrases that are specific to each category and avoid those that are common to all categories.
 - **Name** reflects core capabilities, not domain-specific contexts, or technical choices. 
-  Example: not "Incorrect Anatomical Knowledge" but "Factual Error" (The issue is about factual accuracy, not biology specifically).
+  Example: not "Wrong Spotify API Endpoint" but "Tool Selection Error" (The issue is about choosing the right tool, not Spotify specifically).
   If the issue does not clearly map to a specific skill, classify it as "Hard to Analyze" - this applies when the error is ambiguous, subjective, or lacks sufficient context to determine its nature confidently.- **Description** differentiates one category from another.
 - **Name** and **description** can **accurately** and **consistently** classify new data points **without ambiguity**.
 - **Name** and **description** are *consistent with each other*.

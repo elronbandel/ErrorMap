@@ -1,0 +1,49 @@
+dataset,category,count,pct
+appworld_test_normal,Tool Invocation Error,114,16.593886462882097
+appworld_test_normal,Validation Recovery Failure,82,11.935953420669579
+appworld_test_normal,Evidence Retrieval Omission,73,10.625909752547306
+appworld_test_normal,Coverage Enumeration Omission,57,8.296943231441048
+appworld_test_normal,Unauthorized Action Execution,36,5.240174672489083
+appworld_test_normal,Action Execution Error,36,5.240174672489083
+appworld_test_normal,Premature Termination,35,5.094614264919942
+appworld_test_normal,Constraint Interpretation Error,31,4.512372634643377
+browsecompplus,Search Recovery & Adaptation,168,21.31979695431472
+browsecompplus,Evidence Retrieval Omission,93,11.802030456852792
+browsecompplus,Candidate Verification Failure,89,11.294416243654823
+browsecompplus,Entity Resolution Error,58,7.3604060913705585
+browsecompplus,Unsupported Fabrication,54,6.852791878172589
+browsecompplus,Finalization Protocol Error,54,6.852791878172589
+browsecompplus,Premature Termination,49,6.218274111675127
+browsecompplus,Evidence Interpretation Error,43,5.456852791878172
+swebench,Premature Termination,31,24.8
+swebench,Action Execution Error,27,21.6
+swebench,Remediation Omission,12,9.6
+swebench,Unauthorized Action Execution,9,7.2
+swebench,Finalization Protocol Error,8,6.4
+swebench,Tool Invocation Error,7,5.6
+swebench,Constraint Interpretation Error,6,4.8
+swebench,Diagnostic Protocol Error,4,3.2
+tau2_airline,Policy Eligibility Error,51,14.956011730205278
+tau2_airline,Quantitative Reasoning Error,42,12.316715542521994
+tau2_airline,Constraint Interpretation Error,37,10.850439882697946
+tau2_airline,Unsupported Fabrication,28,8.211143695014663
+tau2_airline,Premature Termination,24,7.038123167155425
+tau2_airline,Evidence Interpretation Error,22,6.451612903225806
+tau2_airline,Tool Invocation Error,20,5.865102639296188
+tau2_airline,Escalation Handling,19,5.571847507331379
+tau2_retail,Unsupported Fabrication,45,10.204081632653061
+tau2_retail,Constraint Interpretation Error,44,9.977324263038549
+tau2_retail,Action Execution Error,36,8.16326530612245
+tau2_retail,Confirmation Handling Error,36,8.16326530612245
+tau2_retail,Entity Resolution Error,33,7.482993197278912
+tau2_retail,Premature Termination,32,7.2562358276643995
+tau2_retail,Escalation Handling,28,6.349206349206349
+tau2_retail,Quantitative Reasoning Error,21,4.761904761904762
+tau2_telecom,Diagnostic Protocol Error,114,23.45679012345679
+tau2_telecom,Escalation Handling,104,21.39917695473251
+tau2_telecom,Remediation Omission,62,12.757201646090534
+tau2_telecom,Premature Termination,61,12.551440329218106
+tau2_telecom,Unsupported Fabrication,17,3.4979423868312756
+tau2_telecom,Evidence Retrieval Omission,15,3.0864197530864197
+tau2_telecom,Planning Error,14,2.880658436213992
+tau2_telecom,Entity Resolution Error,13,2.674897119341564

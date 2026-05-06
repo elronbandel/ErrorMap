@@ -1,0 +1,52 @@
+category,appworld_test_normal,browsecompplus,swebench,tau2_airline,tau2_retail,tau2_telecom
+Action Execution Error,36,0,27,18,36,1
+Authentication Handling Error,23,0,0,0,11,2
+Batch Processing Coverage,2,0,0,0,0,0
+Candidate Selection,0,3,0,1,0,0
+Candidate Verification Failure,3,89,0,5,14,4
+Confirmation Handling Error,2,1,0,3,36,1
+Constraint Interpretation Error,31,35,6,37,44,4
+Coverage Enumeration Omission,57,0,0,6,8,4
+Diagnostic Checklist Execution,0,0,0,0,0,6
+Diagnostic Protocol Error,0,0,4,0,0,114
+Diagnostic Protocol Sequencing,0,0,0,0,0,4
+Entity Resolution Error,29,58,3,7,33,13
+Escalation Handling,0,0,0,19,28,104
+Escalation Handoff Timing,0,0,0,0,1,5
+Evidence Interpretation,0,1,1,0,2,0
+Evidence Interpretation Error,31,43,2,22,13,8
+Evidence Retrieval Omission,73,93,2,8,20,15
+Failure Recovery,3,6,0,0,0,1
+Finalization Protocol Error,10,54,8,0,1,0
+Hard to Analyze,1,0,0,0,0,0
+Instruction Following Error,0,4,0,2,5,8
+Looping Behavior,2,8,0,0,1,0
+Numeric Evaluation,0,0,1,1,0,0
+Other,13,13,3,11,8,13
+Planning Error,1,4,0,3,4,14
+Policy Eligibility Error,3,0,0,51,11,2
+Policy Eligibility Reasoning,0,0,0,6,4,0
+Premature Termination,35,49,31,24,32,61
+Premature Workflow Termination,0,1,0,0,4,3
+Quantitative Reasoning Error,14,18,2,42,21,0
+Query Formulation Error,23,37,0,0,0,0
+Remediation Omission,3,0,12,1,3,62
+Request Boundary Compliance,0,0,1,1,1,0
+Required Action Execution,0,0,0,0,5,1
+Retrieval Coverage,5,2,0,2,3,0
+Search Query Planning,0,11,0,0,0,0
+Search Recovery & Adaptation,14,168,1,0,0,0
+State/Goal Tracking Error,2,1,1,1,7,5
+Submission Finalization,0,7,1,0,0,0
+Temporal Constraint Handling,0,1,0,0,2,0
+Tool Invocation,4,0,1,0,0,0
+Tool Invocation Error,114,5,7,20,11,10
+Transaction Reconciliation,3,0,0,0,0,0
+Unauthorized Action Execution,36,0,9,16,6,2
+Unauthorized State Mutation,2,0,0,0,1,0
+Unsupported Fabrication,22,54,1,28,45,17
+Unsupported Inference,2,3,0,3,0,0
+User Communication Error,1,1,0,0,19,0
+Validation Error Repair,5,0,0,0,0,0
+Validation Recovery Failure,82,18,1,3,0,0
+Verification Handling,0,0,0,0,1,2

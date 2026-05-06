@@ -1,0 +1,52 @@
+category,claude_code,openai_solo,smolagents_code,tool_calling,tool_calling_with_shortlisting
+Action Execution Error,17,18,24,29,30
+Authentication Handling Error,2,6,17,6,5
+Batch Processing Coverage,1,0,0,1,0
+Candidate Selection,3,1,0,0,0
+Candidate Verification Failure,22,21,15,29,28
+Confirmation Handling Error,7,9,12,7,8
+Constraint Interpretation Error,30,25,26,38,38
+Coverage Enumeration Omission,13,15,10,19,18
+Diagnostic Checklist Execution,1,1,0,2,2
+Diagnostic Protocol Error,14,16,26,31,31
+Diagnostic Protocol Sequencing,0,1,1,1,1
+Entity Resolution Error,32,19,26,35,31
+Escalation Handling,19,20,34,39,39
+Escalation Handoff Timing,1,2,1,1,1
+Evidence Interpretation,2,1,1,0,0
+Evidence Interpretation Error,14,19,31,27,28
+Evidence Retrieval Omission,28,28,33,62,60
+Failure Recovery,0,1,4,2,3
+Finalization Protocol Error,8,22,5,17,21
+Hard to Analyze,0,0,1,0,0
+Instruction Following Error,3,0,4,6,6
+Looping Behavior,4,1,4,1,1
+Numeric Evaluation,0,2,0,0,0
+Other,11,16,7,13,14
+Planning Error,2,1,5,9,9
+Policy Eligibility Error,14,14,11,14,14
+Policy Eligibility Reasoning,0,0,0,5,5
+Premature Termination,57,82,33,25,35
+Premature Workflow Termination,2,4,2,0,0
+Quantitative Reasoning Error,20,11,16,25,25
+Query Formulation Error,4,7,11,19,19
+Remediation Omission,7,17,10,22,25
+Request Boundary Compliance,1,1,1,0,0
+Required Action Execution,0,1,1,2,2
+Retrieval Coverage,0,2,2,3,5
+Search Query Planning,1,1,1,4,4
+Search Recovery & Adaptation,25,25,53,40,40
+State/Goal Tracking Error,2,4,6,2,3
+Submission Finalization,1,2,1,2,2
+Temporal Constraint Handling,1,0,0,1,1
+Tool Invocation,1,0,1,2,1
+Tool Invocation Error,21,34,30,44,38
+Transaction Reconciliation,1,0,0,1,1
+Unauthorized Action Execution,5,15,7,17,25
+Unauthorized State Mutation,0,1,0,0,2
+Unsupported Fabrication,28,18,30,44,47
+Unsupported Inference,1,1,1,2,3
+User Communication Error,4,5,7,3,2
+Validation Error Repair,1,0,3,1,0
+Validation Recovery Failure,19,24,22,20,19
+Verification Handling,0,0,1,1,1
