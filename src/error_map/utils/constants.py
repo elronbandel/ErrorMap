@@ -101,6 +101,13 @@ dataset2params: Dict[str, Any] = {
             "success_threshold": 3.5,
         },
 
+    # Agentic benchmarks (binary success: 0 or 1).
+    "appworld_test_normal": {"success_threshold": 1},
+    "browsecompplus":       {"success_threshold": 1},
+    "swebench":             {"success_threshold": 1},
+    "tau2_airline":         {"success_threshold": 1},
+    "tau2_retail":          {"success_threshold": 1},
+    "tau2_telecom":         {"success_threshold": 1},
 }
 
 REQUIRED_DATA_COLUMNS = ["example_id", "model", "input_text", "output_text", "score"]
